@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CD12C30228F5191900689EBE /* assignment1 profileApp mes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "assignment1 profileApp mes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		CD12C30228F5191900689EBE /* assignment1-profileApp-mes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "assignment1-profileApp-mes.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD12C30528F5191900689EBE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD12C30728F5191900689EBE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		CD12C30928F5191900689EBE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; usesTabs = 0; };
@@ -48,7 +48,7 @@
 		CD12C30328F5191900689EBE /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CD12C30228F5191900689EBE /* assignment1 profileApp mes.app */,
+				CD12C30228F5191900689EBE /* assignment1-profileApp-mes.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CD12C30128F5191900689EBE /* assignment1 profileApp mes */ = {
+		CD12C30128F5191900689EBE /* assignment1-profileApp-mes */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CD12C31628F5191C00689EBE /* Build configuration list for PBXNativeTarget "assignment1 profileApp mes" */;
+			buildConfigurationList = CD12C31628F5191C00689EBE /* Build configuration list for PBXNativeTarget "assignment1-profileApp-mes" */;
 			buildPhases = (
 				CD12C2FE28F5191900689EBE /* Sources */,
 				CD12C2FF28F5191900689EBE /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "assignment1 profileApp mes";
+			name = "assignment1-profileApp-mes";
 			productName = "assignment1 profileApp mes";
-			productReference = CD12C30228F5191900689EBE /* assignment1 profileApp mes.app */;
+			productReference = CD12C30228F5191900689EBE /* assignment1-profileApp-mes.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CD12C2FD28F5191900689EBE /* Build configuration list for PBXProject "assignment1 profileApp mes" */;
+			buildConfigurationList = CD12C2FD28F5191900689EBE /* Build configuration list for PBXProject "assignment1-profileApp-mes" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CD12C30128F5191900689EBE /* assignment1 profileApp mes */,
+				CD12C30128F5191900689EBE /* assignment1-profileApp-mes */,
 			);
 		};
 /* End PBXProject section */
@@ -337,7 +337,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CD12C2FD28F5191900689EBE /* Build configuration list for PBXProject "assignment1 profileApp mes" */ = {
+		CD12C2FD28F5191900689EBE /* Build configuration list for PBXProject "assignment1-profileApp-mes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CD12C31428F5191C00689EBE /* Debug */,
@@ -346,7 +346,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CD12C31628F5191C00689EBE /* Build configuration list for PBXNativeTarget "assignment1 profileApp mes" */ = {
+		CD12C31628F5191C00689EBE /* Build configuration list for PBXNativeTarget "assignment1-profileApp-mes" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CD12C31728F5191C00689EBE /* Debug */,
